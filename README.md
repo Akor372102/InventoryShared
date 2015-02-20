@@ -1,0 +1,2 @@
+# InventoryShared
+Bukkit plugin
